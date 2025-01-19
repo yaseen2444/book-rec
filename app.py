@@ -2,6 +2,7 @@
 Author: Mohammad.yaseen
 Email: yaseenmohammadap37@gmail.com
 Date: 2025-jan-19
+check deployed app: https://book-rec-kueasys3vh3k64m3tyjeab.streamlit.app/
 '''
 
 import pickle
