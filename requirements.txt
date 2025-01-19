@@ -3,4 +3,6 @@
 streamlit
 numpy
 pandas
+scikit-learn
+
 ### local packages
