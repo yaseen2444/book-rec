@@ -2,6 +2,6 @@
 ### dependency
 streamlit
 numpy
-
+pandas
 ### local packages -
 -e . 
